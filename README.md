@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amethyst
+- 👋 Hi, I’m Charlay
 - 👀 I’m interested in code, gaming and writing
 - 🌱 I’m currently learning Python
 - 📫 charlotteverhelst1997@hotmail.com | instagram: the.charlayv
